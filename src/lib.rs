@@ -6,4 +6,4 @@ pub mod words;
 
 pub use roman::to_roman;
 pub use slug::slugify;
-pub use words::word_count;
+pub use words::{truncate_words, word_count};
