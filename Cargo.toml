@@ -1,0 +1,9 @@
+[package]
+name = "autofactory-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Small text utilities used to demonstrate the AUTO-FACTORY / AutoCraft workflow"
+license = "MIT"
+publish = false
+
+[dependencies]
